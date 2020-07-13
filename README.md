@@ -21,4 +21,4 @@ My personal interests are UI/UX Design, finance, and space exploration (looking 
 If you want to contact me:
 - 📫 [DM me on Twitter](https://twitter.com/NatanCieplinski).   
 - 📩 [send me an e-mail](natan.cieplinski.developer@gmail.com).
-- 👤 [connect on Linkedin](https://www.linkedin.com/in/natancieplinski
+- 👤 [connect on Linkedin](https://www.linkedin.com/in/natancieplinski)
