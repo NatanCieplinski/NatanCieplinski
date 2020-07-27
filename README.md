@@ -2,8 +2,6 @@
 
 My name is Natan and I’m a Computer Science Student and Junior Web Developer with a passion for UX.
 
-Currently I am in the last year of my bachelor degree, and the expected graduation date is in October so exams and my thesis are my priorities. If you still want to get in touch, my DMs are open.
-
 Tech i enjoy working with the most: 
 - **JavaScript** 💛 : I'm particular fascinated by DOM diffing, virtual DOM and state management. 
 - **Vue** 💚 : I use it in every single personal project. Vue for the Web and Vue + Electron for Desktop.
