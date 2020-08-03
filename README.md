@@ -8,7 +8,7 @@ Tech i enjoy working with the most: 💻
 - **Python** 💙 : who doesn't love python?
 ---
 #### Currently working on 👨🏼‍💻
-I'm currently working to the VueJS documentation italian transalation. 
+I'm currently working on the VueJS documentation italian transalation. 
 
 ---
 Tools I enjoy using the most: 📐
