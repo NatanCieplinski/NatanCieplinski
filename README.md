@@ -9,6 +9,7 @@ Tech i enjoy working with the most: 💻
 ---
 #### Currently working on 👨🏼‍💻
 I'm currently working on the [VueJS documentation](https://vuejs.org/) italian transalation. 
+
 I'm also contributing to the italian translation of [Obsidian](https://obsidian.md/) 
 
 ---
