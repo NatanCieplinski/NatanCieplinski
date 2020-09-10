@@ -33,7 +33,7 @@ My personal interests are music, reading, and space exploration (looking forward
 ### 📐  My favourites tools
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000000?&logoColor=blue&logo=visual-studio-code)
 ![Trello](https://img.shields.io/badge/-Trello-007ACC?&logo=Trello)
-![Figma](https://img.shields.io/badge/-Figma-000000?&logo=Figma)
+![Figma](https://img.shields.io/badge/-Figma-000000?&logoColor=3ACF83&logo=Figma)
 ![Github](https://img.shields.io/badge/-Github-000000?&logo=Github)
 ![Chrome](https://img.shields.io/badge/-Chrome-FFFFFF?&logo=google-chrome)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-6300D6?&logo=Insomnia)
