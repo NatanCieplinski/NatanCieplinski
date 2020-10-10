@@ -34,7 +34,7 @@ My personal interests are music, reading, and space exploration (looking forward
 ![Natan's github stats](https://github-readme-stats.vercel.app/api?username=NatanCieplinski)
 
 ### 📐  My favourites tools
-![VS Code](https://img.shields.io/badge/-VS%20Code-000000?&logoColor=blue&logo=visual-studio-code)
+![Neo Vim](https://img.shields.io/badge/-Neo%20Vim-000000?&logoColor=green&logo=vim)
 ![Trello](https://img.shields.io/badge/-Trello-007ACC?&logo=Trello)
 ![Figma](https://img.shields.io/badge/-Figma-000000?&logoColor=3ACF83&logo=Figma)
 ![Github](https://img.shields.io/badge/-Github-000000?&logo=Github)
