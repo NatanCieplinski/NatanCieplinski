@@ -1,6 +1,6 @@
 ## Hi there, I'm Natan <img src="https://raw.githubusercontent.com/NatanCieplinski/NatanCieplinski/master/wave.gif" width="30px">
 
-I’m a 3rd-year graduate Computer Science Student at the University of L'Aquila, entering a Master in Software Engineering and Junior Web Developer with a passion for UX, finance and open source.
+I’m a Computer Science graduate at the University of L'Aquila, currently in a Master in Software Engineering and Junior Web Developer with a passion for UX, finance and open source.
 
 My personal interests are music, reading, and space exploration (looking forward to see Elon land on Mars). Also, I'm totally in love with Markdown.
 
