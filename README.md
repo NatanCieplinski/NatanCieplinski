@@ -2,7 +2,7 @@
 
 I’m a Frontend Developer with a passion for UX, finance and open source.
 
-My personal interests are music, reading, and space exploration (looking forward to see Elon land on Mars). Also, I'm totally in love with Markdown.
+My personal interests are music, reading, and space exploration (looking forward to see Elon land on Mars). Also, I'm totally in love with Markdown and Vue.
 
 ### 👨🏼‍💻  Currently working on
 - Italian translation of [VueJS documentation](https://vuejs.org/).
