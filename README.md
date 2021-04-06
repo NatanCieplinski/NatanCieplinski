@@ -30,9 +30,6 @@ My personal interests are music, reading, and space exploration (looking forward
 [![Linkedin Badge](https://img.shields.io/badge/-Natan%20Cieplinski-0072b1?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natancieplinski/ "Connect on LinkedIn")
 [![Twitter Badge](https://img.shields.io/badge/-@NatanCieplinski-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=NatanCieplinski "Follow on Twitter")
 
-### ⭐️  My GitHub stats
-![Natan's github stats](https://github-readme-stats.vercel.app/api?username=NatanCieplinski)
-
 ### 📐  My favourites tools
 ![VS Code](https://img.shields.io/badge/-VS%20Code-000000?&logoColor=blue&logo=visual-studio-code)
 ![Trello](https://img.shields.io/badge/-Trello-007ACC?&logo=Trello)
