@@ -1,4 +1,4 @@
-## Hi there, I'm Natan <img src="https://raw.githubusercontent.com/NatanCieplinski/NatanCieplinski/master/wave.gif" width="30px">
+## Hi there, I'm Natan
 
 I’m a Frontend Developer with a passion for UX, finance and open source.
 
